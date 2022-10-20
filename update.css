@@ -1,0 +1,21 @@
+.form-box{
+	width:380px;
+	height:450px;
+	position:relative;
+	margin:6% auto;
+	background:pink;
+	padding:5px;
+	margin-top:100px;
+	margin-left:400px;
+	overflow:hidden;
+	box-shadow: 10px 10px 30px 5px orangered;
+}
+ body {
+             background: url(10.PNG);
+             
+             background-repeat: no-repeat;
+			 background-size: cover;
+			
+
+ }
+ 

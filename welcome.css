@@ -1,0 +1,78 @@
+h1{
+	color:blue;
+	font-family:'Brush Script MT', cursive;
+	text-align:left;
+	 font-size:60px;
+
+}
+h3{
+	color:purple;
+	font-family: Georgia, serif;
+	margin-top: 80px;
+	margin-left: 200px;
+	font-size: 40px;
+}
+.when{
+	width:1220px;
+	margin-left: 20px;
+	background-image: linear-gradient(to right, red , yellow);
+	position:relative;
+	padding:5px;
+	background-size: cover;
+	box-shadow: 1px 10px 20px 10px grey;
+}
+
+a:visited{
+	color:green;
+}
+
+h1::first-letter{
+	
+	font-size:80px;
+}
+a{
+	margin-bottom: -100px;
+	margin-left: 1100px;
+}
+a[href="logout.php"]{
+	color:black;
+	font-size: 30px;
+}
+a:hover{
+	font-size:40px;
+	color:black;
+}
+.five{
+	        margin-top: -290px;
+	        margin-left: 900px;
+	         background-repeat: no-repeat;
+			 background-size: cover;
+}
+.form-box{
+	
+
+	width: 1245px;
+	box-shadow: 1px 5px 5px 5px grey;
+	margin-left: 10px;
+}
+div.a {
+  position: relative;
+  width: 1242px;
+  height: 300px;
+  border: 2px solid orange;
+}
+div.b {
+  position: absolute;
+  left: auto;
+  width: 350px;
+  height: 120px;
+  
+} 
+
+div.c {
+  position: absolute;
+  left: 400px;
+  width: 400px;
+  height: 120px;
+  
+} 

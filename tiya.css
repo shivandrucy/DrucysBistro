@@ -1,0 +1,45 @@
+.body {
+             background: url(10.PNG);
+             background-color: red;
+             background-repeat: no-repeat;
+			 background-size: cover;
+}
+.form-outline{
+
+     width: 1200px;
+    margin-left:15px;
+    position:relative;
+    background:    mediumpurple; 
+    padding:25px;
+     box-shadow: 10px 10px 30px 30px grey;
+}
+.card-deck{
+    color: purple;
+   
+
+}
+.card-body {
+    color: red;
+    background-color: pink;
+    border-radius: .3rem;
+    font-family:'Brush Script MT', cursive;
+    font-size: 40px;
+}
+.form-group{
+    background-color: greenyellow;
+  border: none;
+  color: white;
+  padding: 7px 12px;
+ font-size: 7px;
+  margin: 1px 1px;
+  cursor: pointer;
+  
+   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    border-radius: 7px;
+}
+.lead{
+font-family: Garamond, serif;
+ color: red;
+     text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-size: 40px;
+}
